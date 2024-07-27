@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "661768757343",
+    "project_id": "meatly-d190e",
+    "storage_bucket": "meatly-d190e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661768757343:android:e314ff3dcde9e0906bfbea",
+        "android_client_info": {
+          "package_name": "us.meatly.meatly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661768757343-diau17os6ql07n41e9l2re66563p8bdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "us.meatly.meatly",
+            "certificate_hash": "9e863d7342b38d5b91ae1bb8989e31a8879eefef"
+          }
+        },
+        {
+          "client_id": "661768757343-fmommfnagmpki9i40kqtmeug37giap0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvT_h3TgBZhUzos06J751yuoUf-203YvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661768757343-fmommfnagmpki9i40kqtmeug37giap0g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661768757343-ikdm7gldrga06k18b09jrk5rmscdvhu7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "us.meatly.meatly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
